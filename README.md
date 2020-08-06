@@ -7,6 +7,6 @@ change temperature between ℃ and ℉
 
 [This is the github repository.](https://github.com/gamemaster2b/temperature-interchange)
 ## Progress
-- [x] [`create the cpp file`](temp.cpp)
+- [x] [`create the cpp file`](main.cpp)
 - [x] `write the lines of code`
 - [x] `debug the code`
